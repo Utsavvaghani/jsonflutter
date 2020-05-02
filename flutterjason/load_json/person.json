@@ -1,0 +1,30 @@
+[
+    {
+        "name":"Utsav vaghani",
+        "age":"23",
+        "height":"120",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Tulsi vaghani",
+        "age":"12",
+        "height":"560",
+        "gender":"female",
+        "hair_color":"black"
+    },
+    {
+        "name":"Yash vaghani",
+        "age":"10",
+        "height":"100",
+        "gender":"male",
+        "hair_color":"black"
+    },
+    {
+        "name":"Ram vaghani",
+        "age":"111",
+        "height":"150",
+        "gender":"male",
+        "hair_color":"black"
+    }
+]
